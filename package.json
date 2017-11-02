@@ -4,7 +4,7 @@
   "description": "Simple chat app with socket.io",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Nida Orhan",
   "license": "ISC",
